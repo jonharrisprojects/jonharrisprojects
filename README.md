@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### I'm working on small PCB Projects and Escape Room type props and electronics.
+### Some bits, whilst I host here on my github, will be available for purchase on PCBWay.com in the case of certain PCBS.
+### I do like to test my hardware designs before hand, but I always advise no warranty is ever implied, and you try my
+### projects at your own risk.
+
+### I'll let you know more in the coming days.
+### 10th March, 2022.
+
 <!--
 **jonharrisprojects/jonharrisprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
