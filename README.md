@@ -7,6 +7,8 @@
 ### I'll let you know more in the coming days.
 ### 10th March, 2022.
 
+### PS - If you're looking for a USB Based Dragon's Lair scoreboard adaptor, I abandonned that project. Google's archiving is a nuisance at times. 
+
 <!--
 **jonharrisprojects/jonharrisprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
